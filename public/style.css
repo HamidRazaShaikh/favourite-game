@@ -1,0 +1,66 @@
+body {
+    background-image: url("images.jpg");
+    background-size: cover;
+}
+
+#mainwin {
+
+    background-color: beige;
+    border: solid;
+    height: 500px;
+    width: 800px;
+   margin: 50px 100px 100px 200px;
+    border-radius:20px ;
+    
+}
+
+#name {
+
+    font-size: 20px;
+    font-style: italic;
+    border: solid cornflowerblue;
+    margin: 20px;
+    width: 400px;
+}
+
+#game {
+    font-size: 20px;
+    font-style: italic;
+    border: solid cornflowerblue;
+    margin: 20px;
+    width: 200px;
+}
+
+#add {
+    font-size: 20px;
+    font-style: italic;
+    border: solid cornflowerblue;
+    margin: 20px;
+
+}
+
+#span {
+    margin-left: 300px;
+    font-size: 20px;
+    text-decoration: underline;
+    line-height: 50px;
+}
+
+#lis {
+    font-size: 20px;
+    text-decoration: underline;
+    line-height: 20px;
+    align-content: inherit;
+}
+
+#butt {
+    margin-left: 100px;
+    font-size: 15px;
+    height: 30px;
+    width: 60px;
+    align-content: inherit;
+
+
+
+
+}
